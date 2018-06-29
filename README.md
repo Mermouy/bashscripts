@@ -1,0 +1,3 @@
+# bashscripts
+Found at and automatically exported from code.google.com/p/bashscripts
+Small bash utilities...
